@@ -29,21 +29,6 @@ This repository is also a **learning resource** for anyone looking for:
 
 ---
 
-## 📂 Folder Structure
-
-
----
-
-## 📈 Progress & Learning
-
-| Problem Type     | Solved |
-|------------------|--------|
-| Arrays & Strings | ✅✅✅✅ |
-| HashMaps         | ✅✅✅  |
-| Trees & Graphs   | ✅✅   |
-| Dynamic Programming | ✅✅ |
-| Contests         | 🔁 Weekly / Biweekly |
-
 ---
 
 ## 🤝 Let's Connect!
