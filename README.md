@@ -17,7 +17,7 @@ This repository is also a **learning resource** for anyone looking for:
 - Clear Python solutions
 - Easy-to-understand explanations
 - Step-by-step approach for each problem
-- LeetCode problem links
+- LeetCode problems
 
 ---
 
